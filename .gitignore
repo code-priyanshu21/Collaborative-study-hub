@@ -1,0 +1,49 @@
+# Binaries and Object Files
+*.exe
+*.o
+*.obj
+*.dll
+*.so
+*.dylib
+*.a
+*.lib
+
+# Debugging and Profiling
+*.pdb
+*.ilk
+*.idb
+gmon.out
+
+# Build directories
+build/
+bin/
+obj/
+out/
+Debug/
+Release/
+
+# IDE and Editor Metadata
+.vscode/
+.idea/
+*.suo
+*.user
+*.useroscan
+*.sln.docstates
+
+# Logs, Temp, and Cache
+*.log
+*.tmp
+*.bak
+*.cache
+*.swp
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# Environment and secrets
+.env
+.env.*
+secrets.json
